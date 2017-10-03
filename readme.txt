@@ -1,0 +1,1 @@
+When you get to "t7" the "ge" gravitational energy and "ke" kinetic energy are greater than the values at "t0", so in what sense are they conserved, along with electric energy, if they are potentially unlimited, or how can you say how much potential energy there is without knowing the future trajectory.
